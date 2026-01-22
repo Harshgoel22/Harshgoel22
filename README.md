@@ -1,7 +1,7 @@
 Hola, I'm Harsh Goel! 👋 
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Docker to containerize the application.
-- 💞️ I’m looking to collaborate on a project related to MERN.
+- 👀 I’m interested in Machine Learning, Deep Learning and High Perforcement Computing.
+- 🌱 I’m currently Reinforcement Learning and Computer Vision.
+- 💞️ I’m looking to collaborate on a project related to HPC or Deep Learning.
 - 📫 How to reach me: [LinkedIn- @harsh-goel](https://www.linkedin.com/in/harsh-goel-47a0b5226) , [Twitter- @hgoel0260](https://twitter.com/@hgoel0260)
 - Pronouns: He/His
 - Fun Fact: I am very keen to learn new tech related stuffs.
